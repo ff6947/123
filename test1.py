@@ -15,8 +15,6 @@ plt.text(11,97,"A:  ZGCB-ZJB02-MGTYW-CS01")
 plt.text(11,93,"B:  ZGCB-ZJB02-OAYW-CS01")
 plt.text(11,89,"C:  ZGCB-ZJB02-OPMGT-CS01")
 
-a=123
-
 #配置X轴标题
 plt.xlabel('设备名称',size=20)
 #配置Y轴标题
